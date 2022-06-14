@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto Flex', sans-serif;
+    margin:0;
+    padding:0;
+}
+.size {
+    width: 82pt;
+    height: 24pt;
+    align-items: center;
+
+}
+
+.formato{
+    text-align: center;
+    font: size 16pt;
+    color:#707070;
+    opacity: 100%;
+}
+.formulario{
+    text-align: center;
+    font-size: 24pt;
+    opacity: 100%;
+}
+
+.centrado{
+  
+}
+
+.derecha{
+    
+    font-size:20pt;
+    color:#28A745;
+}
+.precio{
+
+
+}
